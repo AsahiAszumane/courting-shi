@@ -1,0 +1,48 @@
+*{
+padding: 0%; margin: 0;}
+.container{
+    height: 150vh;
+    width: 100vw;
+    color: #030100;
+    background: #C3D9DA;
+    text-align: center;}
+
+.wrapper{
+    margin: 0 auto;
+    width: 1000px;}
+
+    .yay-gif{
+        width: 500px;
+    }
+
+.OMGGGG, .soooo, .opoo{
+    padding: 25%;}
+
+h2{font-size: 30px; margin-bottom: 30px;}
+.OMGGGG span{color: #EFC3CA;}
+.OMGGGG a{text-decoration: none;
+background: #eee;
+padding: 5px;
+margin: 5px 10px;
+border: 3px solid #ddd;
+border-radius: 10px;}
+.WEH span{color:#EFC3CA;}
+.WEH a{text-decoration: none;
+    background: #eee;
+    padding: 5px;
+    margin: 5px 10px;
+    border: 3px solid #ddd;
+    border-radius: 10px;}
+.HAPPYYY span{color:#EFC3CA ;}
+.HAPPYYY a{text-decoration: none;
+    background: #eee;
+    padding: 5px;
+    margin: 5px 10px;
+    border: 3px solid #ddd;
+    border-radius: 10px;}
+
+
+#soooo{font-size: 15px;
+    color: #be2302;}
+#opoo{font-size: 15px;
+    color: #be2302;}
